@@ -12,3 +12,9 @@
   </a>  
 </div>
 ***
+I am a Software Tester focused on quality assurance and continuous learning.
+Currently, I am studying test automation and building skills in:
+Writing automated UI tests with Selenium
+Developing test scripts in Java
+Exploring best practices in manual and automated testing
+I enjoy solving problems, learning new tools, and improving my skills in test automation.
