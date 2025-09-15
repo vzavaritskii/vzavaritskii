@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>  
 </div>
-<hr>
+<br>
 <div id="bio" align="left">
   <p>
       Currently, I am studying test automation and building skills in:
@@ -23,7 +23,7 @@
     <li>I enjoy solving problems, learning new tools, and improving my skills in test automation.</li>
   </ul>
 </div>
-<hr>
+<br>
 <a href="https://www.codewars.com/users/v.zavaritskii">
   <img src="https://www.codewars.com/users/v.zavaritskii/badges/micro" alt="Codewars Badge">
 </a>
