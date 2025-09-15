@@ -11,12 +11,14 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>  
 </div>
-<div align="left">    
-***
-I am a Software Tester focused on quality assurance and continuous learning.
-Currently, I am studying test automation and building skills in:
-Writing automated UI tests with Selenium
-Developing test scripts in Java
-Exploring best practices in manual and automated testing
-I enjoy solving problems, learning new tools, and improving my skills in test automation.
+    
+<div align="left">
+  <p>
+    I am a Software Tester focused on quality assurance and continuous learning.
+    Currently, I am studying test automation and building skills in:
+    Writing automated UI tests with Selenium
+    Developing test scripts in Java
+    Exploring best practices in manual and automated testing
+    I enjoy solving problems, learning new tools, and improving my skills in test automation.
+  </p>
 </div>
