@@ -24,4 +24,6 @@
   </ul>
 </div>
 <hr>
-<a href="https://www.codewars.com/users/v.zavaritskii" rel="nofollow"><img src="https://camo.githubusercontent.com/19d9dedf4b137e44e5dfee34451e597e648deb976ec8b4525fe0ef4d8941c4fb/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f4275727961746b612f6261646765732f6d6963726f" alt="codewars" data-canonical-src="https://www.codewars.com/users/v.zavaritskii/badges/micro" style="max-width: 100%;"></a>
+<a href="https://www.codewars.com/users/v.zavaritskii">
+  <img src="https://www.codewars.com/users/v.zavaritskii/badges/micro" alt="Codewars Badge">
+</a>
