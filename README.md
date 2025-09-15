@@ -1,4 +1,4 @@
-## Hi there, I'm Vitalii 👋
+<h2> Hi there, I'm Vitalii 👋</h2>
 
 <!--
 **vzavaritskii/vzavaritskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
